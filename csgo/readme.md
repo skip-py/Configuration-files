@@ -1,5 +1,5 @@
 # Counter-Strike: Global Offensive Configuration-files
-Configuration files used for Counter-Strike: Global Offensive exclusively through "..cfg" files.
+Configuration files used for Counter-Strike: Global Offensive exclusively through ".cfg" files.
 
 Includes:
 
