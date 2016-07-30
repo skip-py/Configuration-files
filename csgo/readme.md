@@ -3,7 +3,7 @@ Configuration files used for Counter-Strike: Global Offensive exclusively throug
 
   For more information: https://developer.valvesoftware.com/wiki/.cfg
 
-###### Files:
+## Files:
 
  **autoexec.cfg**		
  
