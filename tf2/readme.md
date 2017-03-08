@@ -21,6 +21,3 @@ For more information: https://developer.valvesoftware.com/wiki/CFG
  
   > .cfg file for creating and configuring a preset LAN listen server.
   
-  **misc.cfg**
- 
-  > .cfg file for miscellaneous convars and other variables.
